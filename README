@@ -12,3 +12,8 @@ Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+--------------------------------------------------------
+Review#1
+Unofrtunatly the app doesn't work on my emulator, I use genymotion emulator. 
+I downloaded the entire folder and tried on different devices but it doesn't work. However, there was no errors or something wrong
+with the code. The code is organized and I like the comments at the top of each section.
